@@ -1,0 +1,37 @@
+#article-list {
+    /* text-align: center; */
+}
+h3 {
+    color: blue;
+    font-family: calibri;
+}
+h1 { margin: 80px;
+  color:green;
+    text-align: center;
+    font-size: 36px;
+}
+nav {margin-left: 1000px;
+    float: right;
+    text-decoration: none;
+    color: blue;
+}
+li {
+    display: inline;
+}
+header {top: 0; background-color: white; width: 100%;
+    position: fixed;}
+
+body {margin: 0; padding: 0; background-color: grey;}
+
+article {margin: 1px;
+  margin-left: 299px; margin-right: 299px;
+        background-color: white;}
+
+footer{background-color: black;
+       color: white;
+     text-align: center;
+   padding: 5px;
+   margin-top: 100px;
+ bottom: 0;}
+
+ img {margin-top: 10px; margin-left: 5px;}
